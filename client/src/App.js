@@ -11,9 +11,9 @@ function App() {
     callApi();
   }, []);
   return (
-    <div className="App">
-      <p>test</p>
-    </div>
+      <div className="App">
+        <p>test</p>
+      </div>
   );
 }
 
